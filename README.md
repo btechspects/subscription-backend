@@ -32,8 +32,8 @@ This system is designed for SaaS platforms needing flexible subscription managem
 - **Once the project is created, navigate to its directory using the cd command:**
 
 ```bash
-git clone https://github.com/your-username/subscription-billing-backend.git
-cd subscription-billing-backend
+git clone https://github.com/btechspects/subscription-backend.git
+cd subscription-backend
 ```
 
 - **Install dependencies**
