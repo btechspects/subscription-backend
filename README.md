@@ -2,11 +2,11 @@
 
 This backend project is a Subscription Billing System built using Laravel. It handles user subscriptions, payment plans, and transaction management. The core features include:
 
-✅ User Plan Subscriptions
-✅ Payment Method Handling
-✅ Transaction History Recording
-✅ Automatic Payment Processing (with Cronjob)
-✅ API Endpoints ready for frontend integration
+- User Plan Subscriptions
+- Payment Method Handling
+- Transaction History Recording
+- Automatic Payment Processing (with Cronjob)
+- API Endpoints ready for frontend integration
 
 This system is designed for SaaS platforms needing flexible subscription management and invoicing.
 
